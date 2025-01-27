@@ -1,4 +1,4 @@
-# 🏠 **Project Bantuan Sosial (Bansos)**  
+# 🏠 **Project Bantuan Sosial (Bansos) Negara Konoha Wakanda**  
 
 🚀 **Versi Pertama**  
 Proyek ini adalah sistem manajemen data Bantuan Sosial yang dirancang untuk membantu pendataan penerima manfaat bantuan dengan lebih mudah, akurat, dan efisien.
